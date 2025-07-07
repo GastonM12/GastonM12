@@ -66,7 +66,7 @@
 
 <br><br><br><br><br><br><br><br>
 
-![GastonM12 Graph](https://github-readme-activity-graph.vercel.app/graph?username=GastonM12&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![GastonM12 Graph](https://github-readme-activity-graph.vercel.app/graph?username=GastonM12&custom_title=GastonM12's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 <p align="center">
  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies

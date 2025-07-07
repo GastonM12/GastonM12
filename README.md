@@ -18,9 +18,7 @@
 ## 💻 Tecnologias 
 
 <div>
-
-  <img  alt="jenkins" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,mysql,python,django,boostrap" /> 
-	[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <img  alt="jenkins" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,mysql,python,django,boostrap,wordpress,php,laravel,sql" /> 
  <br><br>
 </div>
 
@@ -49,8 +47,8 @@
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
     &emsp;
      <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    &emsp; 
-   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
+  
+ 
     &emsp;
     
 </p>

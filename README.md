@@ -110,6 +110,6 @@
 - :nerd_face: Always `learning new things`.
 - 💬 Ask me about anything, I love to answer!
 - :thinking: I’m currently open for a new `job opportunity`.
-- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nitin-dahiya/) 🏆.
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/gaston-mori-0a3719335/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BaNRrI1KkSCetw67FwuSKLA%3D%3D) 🏆.
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>

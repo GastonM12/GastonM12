@@ -10,8 +10,8 @@
 
 - 📝 "I am currently studying to become a Higher Technician in Programming in TECLAB Argentina 
 
-💬 Ask me about: anything, I am happy to help
-- <img src="https://komarev.com/ghpvc/?username=GastonM12&label=Profile%20views&color=brightgreen&style=plastic" alt="GastonM12's profile views" /> 
+- 💬 Ask me about: anything, I am happy to help
+ <img src="https://komarev.com/ghpvc/?username=GastonM12&label=Profile%20views&color=brightgreen&style=plastic" alt="GastonM12's profile views" /> 
   <a href="https://github.com/GastonM12?tab=followers"><img src="https://img.shields.io/github/followers/GastonM12?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 

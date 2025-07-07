@@ -15,10 +15,9 @@
   <a href="https://github.com/GastonM12?tab=followers"><img src="https://img.shields.io/github/followers/GastonM12?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 
-## 💻 Tecnologias 
-
+## 💻 Technologies
 <div>
-  <img  alt="tecnologias src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,mysql,python,django,wordpress,php,laravel,sql" /> 
+  <img  alt="tecnologias" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,mysql,python,django,wordpress,php,laravel,sql" /> 
  <br><br>
 </div>
 

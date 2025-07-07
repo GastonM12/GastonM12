@@ -8,7 +8,7 @@
 <!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
 - :computer: &nbsp;📫 Cómo contactarme: gastonexequielmori@outlook.com
 
--📝 "I am currently studying to become a Higher Technician in Programming in TECLAB Argentina 
+- 📝 "I am currently studying to become a Higher Technician in Programming in TECLAB Argentina 
 
 💬 Ask me about: anything, I am happy to help
 - <img src="https://komarev.com/ghpvc/?username=GastonM12&label=Profile%20views&color=brightgreen&style=plastic" alt="GastonM12's profile views" /> 

@@ -18,7 +18,7 @@
 ## 💻 Tecnologias 
 
 <div>
-  <img  alt="jenkins" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,mysql,python,django,boostrap,wordpress,php,laravel,sql" /> 
+  <img  alt="jenkins" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,mysql,python,django,wordpress,php,laravel,sql" /> 
  <br><br>
 </div>
 

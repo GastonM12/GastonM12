@@ -83,8 +83,8 @@
 
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
-    alt="iscpatricio92" />
+  <img  src="https://raw.githubusercontent.com/GastonM12/GastonM12/main/resources/img/github-contribution-grid-snake.svg"
+    alt="GastonM12" />
 </p>
 
 
